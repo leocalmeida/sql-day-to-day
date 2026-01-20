@@ -194,3 +194,4 @@ JOIN JSON_TABLE(
 - [MySQL Docs - JSON_TABLE](https://dev.mysql.com/doc/refman/8.4/en/json-table-functions.html)
 - [Blog MySQL sobre JSON_TABLE](https://dev.mysql.com/blog-archive/json_table-the-best-of-both-worlds/)
 
+🤡🎃💀🔪
